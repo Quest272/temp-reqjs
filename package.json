@@ -1,0 +1,22 @@
+{
+  "name": "temp-reqjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quest272/temp-reqjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quest272/temp-reqjs/issues"
+  },
+  "homepage": "https://github.com/Quest272/temp-reqjs#readme",
+  "devDependencies": {
+    "requirejs": "^2.3.3"
+  }
+}
